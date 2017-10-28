@@ -1,0 +1,70 @@
+*{
+  list-style: none;
+  margin:0;
+}
+
+h1{
+  font-family: 'Passion One', cursive;
+  color:white;
+  font-weight: 100;
+  display:inline;
+  width:100%;
+}
+
+li#h1{
+  width:100%;
+
+
+}
+
+li{
+  display:block;
+  text-align: center;
+}
+
+
+
+#ul{
+  width:100%;
+  text-align: center;
+  padding:2px;
+}
+
+
+h4{
+  color:white;
+  display:inline;
+  font-family: 'Vampiro One', cursive;
+}
+
+h2{
+  font-family: 'Vampiro One', cursive;
+  color:white;
+}
+
+img {
+  max-width: 25%;
+}
+
+#display{
+  border:solid white;
+  padding:1%;
+  list-style: none;
+  background-color: #86b646;
+  font-weight: 50;
+  text-align:center;
+}
+
+#container{
+  background-color: #C79852;
+}
+
+.newDiv{
+  display: inline-block;
+  width:33%;
+}
+
+li{
+  font-family: 'Oswald', sans-serif;
+  font-size: 75%;
+}
